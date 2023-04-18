@@ -1,2 +1,2 @@
 # Dataset landsat UCI 
-KNN, Bayes, Randomforest, Desicion Tree
+KNN, Randomforest, Desicion Tree
